@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@seamanstommy" target="blank"><img src="https://img.shields.io/twitter/follow/@seamanstommy?logo=twitter&style=for-the-badge" alt="@seamanstommy" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Full-Stack Development**
 
 - 💬 Ask me about **Java**
 
